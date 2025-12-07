@@ -1,4 +1,4 @@
-package ejercicio1;
+package ejercicio3;
 import java.util.*;
 
 public class Habilidad {
